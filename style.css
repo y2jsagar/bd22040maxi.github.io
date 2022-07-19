@@ -13,7 +13,7 @@ body{
     height: 100vh;
 }
 .about-left{
-    background-color: #21D4FD;
+    background-color: #2167fd;
     background-image: linear-gradient(19deg, #21D4FD 0%, #B721FF 100%);
     display: flex;
     flex-direction: column;
@@ -23,7 +23,7 @@ body{
     color:#fff
 }
 .about-left-content > div{
-    background: #12192c;
+    background: #191157;
     padding: 4rem 4rem 2.5rem 5rem;
     text-align: center;
     
